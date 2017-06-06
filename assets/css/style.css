@@ -1,0 +1,17 @@
+body{
+	background-image: url(../img/CopiadeLandscape.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+
+.contenedorGato{
+	display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+img{
+    align-self: flex-end;
+}

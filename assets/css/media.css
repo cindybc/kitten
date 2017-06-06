@@ -1,0 +1,14 @@
+
+
+@media (min-width: 535px) and (max-width: 824px){
+      body{
+      	 background-image: url(../img/Copiadedawn.png);
+      }
+}
+
+
+@media (min-width: 200px) and (max-width: 534px){
+	body{
+		background-image: url(../img/Copiademaxresdefault.jpg);
+	}
+}
